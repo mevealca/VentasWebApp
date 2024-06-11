@@ -737,6 +737,16 @@
             "rid": "win"
           }
         }
+      },
+      "Ventas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ventas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ventas.Domain.dll": {}
+        }
       }
     }
   },
@@ -1902,12 +1912,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Ventas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Ventas.Domain/Ventas.Domain.csproj",
+      "msbuildProject": "../Ventas.Domain/Ventas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 6.0.31",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.31"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.31",
+      "Ventas.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1941,7 +1957,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Ventas.Domain.csproj": {
+              "projectPath": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Ventas.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
