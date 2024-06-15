@@ -7,6 +7,7 @@ namespace Ventas.Domain.Models
         public string? NumeroVenta { get; set; }
         public int? IdTipoDocumentoVenta { get; set; }
         public string? TipoDocumentoVenta { get; set; }
+        public int? TipoDocumentoVentaId { get; set; }
         public string? DocumentoCliente { get; set; }
         public string? NombreCliente { get; set; }
         public decimal? SubTotal { get; set; }

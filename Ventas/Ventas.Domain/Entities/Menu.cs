@@ -12,5 +12,7 @@ namespace Ventas.Domain.Entities
         public string? PaginaAccion { get; set; }
         public bool? EsActivo { get; set; }
 
+        public Menu? Padre { get; set; }
+
     }
 }

@@ -13,6 +13,8 @@ namespace Ventas.Domain.Entities
         public decimal? SubTotal { get; set; }
         public decimal? ImpuestoTotal { get; set; }
         public decimal? Total { get; set; }
+        public List<DetalleVenta>? DetallesVentas { get; set; }
+        public TipoDocumentoVenta TipoDocumentoVenta { get; set; }
 
     }
 }

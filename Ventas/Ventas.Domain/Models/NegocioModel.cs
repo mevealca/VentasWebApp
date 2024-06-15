@@ -11,7 +11,7 @@ namespace Ventas.Domain.Models
         public string? NumeroDocumento { get; set; }
         public string? Direccion { get; set; }
         public string? Telefono { get; set; }
-        public decimal PorcentajeImpuesto { get; set; }
+        public decimal? PorcentajeImpuesto { get; set; }
         public string? SimboloMoneda { get; set; }
     }
 }

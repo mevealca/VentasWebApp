@@ -12,5 +12,7 @@ namespace Ventas.Domain.Entities
         public string? NombreFoto { get; set; }
         public string? Clave { get; set; }
         public bool? EsActivo { get; set; }
+
+        public Rol Rol { get; set; }
     }
 }

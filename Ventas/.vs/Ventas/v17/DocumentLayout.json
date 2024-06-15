@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\core\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\core\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\extentions\\negocioextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\extentions\\negocioextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\models\\tipodocumentoventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\models\\tipodocumentoventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\models\\rolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\models\\rolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\core\\basemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\core\\basemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Core\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Core\\IBaseRepository.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Core\\IBaseRepository.cs",
-              "RelativeToolTip": "Ventas.Domain\\Core\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Ventas.Domain\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "Ventas.Domain\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:22:19.151Z",
+              "WhenOpened": "2024-06-15T02:35:17.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Core\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Core\\BaseRepository.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Core\\BaseRepository.cs",
-              "RelativeToolTip": "Ventas.Infraestructure\\Core\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:10:10.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NegocioExtentions.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\NegocioExtentions.cs",
-              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Extentions\\NegocioExtentions.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\NegocioExtentions.cs",
-              "RelativeToolTip": "Ventas.Infraestructure\\Extentions\\NegocioExtentions.cs",
+              "Title": "ProductosRepository.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:07:31.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductoModel.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\ProductoModel.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Models\\ProductoModel.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\ProductoModel.cs",
-              "RelativeToolTip": "Ventas.Domain\\Models\\ProductoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:05:49.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuModel.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\MenuModel.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Models\\MenuModel.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\MenuModel.cs",
-              "RelativeToolTip": "Ventas.Domain\\Models\\MenuModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:05:24.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoDocumentoVentaModel.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\TipoDocumentoVentaModel.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Models\\TipoDocumentoVentaModel.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\TipoDocumentoVentaModel.cs",
-              "RelativeToolTip": "Ventas.Domain\\Models\\TipoDocumentoVentaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:04:38.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RolModel.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\RolModel.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Models\\RolModel.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Models\\RolModel.cs",
-              "RelativeToolTip": "Ventas.Domain\\Models\\RolModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:04:04.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseModels.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Core\\BaseModels.cs",
-              "RelativeDocumentMoniker": "Ventas.Domain\\Core\\BaseModels.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Core\\BaseModels.cs",
-              "RelativeToolTip": "Ventas.Domain\\Core\\BaseModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:03:42.797Z",
+              "WhenOpened": "2024-06-15T02:32:11.271Z",
               "EditorCaption": ""
             }
           ]

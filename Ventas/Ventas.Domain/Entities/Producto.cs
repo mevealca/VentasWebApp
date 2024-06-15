@@ -14,5 +14,7 @@ namespace Ventas.Domain.Entities
         public string? NombreImagen { get;}
         public decimal Precio { get; set; }
         public bool EsActivo { get; set; }
+
+        public Categoria Categoria { get; set; }
     }
 }

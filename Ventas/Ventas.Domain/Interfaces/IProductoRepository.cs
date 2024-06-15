@@ -5,5 +5,6 @@ namespace Ventas.Domain.Interfaces
 {
     public interface IProductoRepository : IBaseRepository<Producto>
     {
+
     }
 }

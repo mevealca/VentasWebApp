@@ -1,0 +1,12 @@
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\bin\Debug\net6.0\Ventas.Domain.deps.json
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\bin\Debug\net6.0\Ventas.Domain.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\bin\Debug\net6.0\Ventas.Domain.pdb
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.AssemblyInfoInputs.cache
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.AssemblyInfo.cs
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.csproj.CoreCompileInputs.cache
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.sourcelink.json
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\refint\Ventas.Domain.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\Ventas.Domain.pdb
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Domain\obj\Debug\net6.0\ref\Ventas.Domain.dll

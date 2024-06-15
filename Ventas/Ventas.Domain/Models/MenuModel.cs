@@ -6,7 +6,7 @@ namespace Ventas.Domain.Models
 {
     public class MenuModel :BaseModels
     {
-        public int IdPadre { get; set; }
+        public int? IdPadre { get; set; }
         public string? Padre { get; set; }
         public string? Icono { get; set; }
         public string? Controlador { get; set; }
