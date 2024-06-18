@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.Domain", "Ventas.Domain\Ventas.Domain.csproj", "{603EB072-3D7D-4871-A258-0D12FDBE73E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.Domain", "Ventas.Domain\Ventas.Domain.csproj", "{603EB072-3D7D-4871-A258-0D12FDBE73E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.Infraestructure", "Ventas.Infraestructure\Ventas.Infraestructure.csproj", "{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.Infraestructure", "Ventas.Infraestructure\Ventas.Infraestructure.csproj", "{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.IOC", "Ventas.IOC\Ventas.IOC.csproj", "{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.Api", "Ventas.Api\Ventas.Api.csproj", "{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

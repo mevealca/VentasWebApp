@@ -2,15 +2,16 @@
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 using Ventas.Domain.Core;
+using Ventas.Infraestructure.Context;
 
 namespace Ventas.Infraestructure.Core
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : class
     {
-       private readonly DbContext _context;
+       private readonly VentasContext _context;
         private DbSet<TEntity> _entities;
 
-        public BaseRepository(DbContext context)
+        public BaseRepository(VentasContext context)
         {
             this._context = context;
             this._entities = this._context.Set<TEntity>();

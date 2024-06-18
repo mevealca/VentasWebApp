@@ -1,7 +1,7 @@
 ﻿
 using Ventas.Domain.Entities;
-using Ventas.Domain.Interfaces;
 using Ventas.Domain.Models;
+using Ventas.Infraestructure.Interfaces;
 using Ventas.Infraestructure.Context;
 using Ventas.Infraestructure.Core;
 using Ventas.Infraestructure.Extentions;

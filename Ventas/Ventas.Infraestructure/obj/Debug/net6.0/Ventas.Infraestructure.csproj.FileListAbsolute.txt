@@ -1,0 +1,16 @@
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\bin\Debug\net6.0\Ventas.Infraestructure.deps.json
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\bin\Debug\net6.0\Ventas.Infraestructure.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\bin\Debug\net6.0\Ventas.Infraestructure.pdb
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\bin\Debug\net6.0\Ventas.Domain.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\bin\Debug\net6.0\Ventas.Domain.pdb
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.csproj.AssemblyReference.cache
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.AssemblyInfoInputs.cache
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.AssemblyInfo.cs
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.sourcelink.json
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.I.4B7CA1A9.Up2Date
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\refint\Ventas.Infraestructure.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\Ventas.Infraestructure.pdb
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Infraestructure\obj\Debug\net6.0\ref\Ventas.Infraestructure.dll
