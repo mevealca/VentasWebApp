@@ -27,7 +27,7 @@ namespace Ventas.Infraestructure.Extentions
 
         public static List<MenuModel> ConvetMenuEntityToMenuModel(this List<Menu> menuModel) { 
         
-            return menuModel.ConvetMenuEntityToMenuModel();
+            return menuModel.Select(X=> X.ConvetMenuEntityToMenuModel()).ToList();
         }
     }
 }

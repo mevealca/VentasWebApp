@@ -31,7 +31,7 @@ namespace Ventas.Infraestructure.Extentions
         }
 
         public static List<NegocioModel> ConvertNegocioEntityToNegocioModel(this List<Negocio> negocio) {
-            return negocio.ConvertNegocioEntityToNegocioModel();
+            return negocio.Select(X=> X.ConvertNegocioEntityToNegocioModel()).ToList();
         }
 
     }

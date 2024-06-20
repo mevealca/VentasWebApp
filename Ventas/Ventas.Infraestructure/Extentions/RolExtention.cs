@@ -16,7 +16,7 @@ namespace Ventas.Infraestructure.Extentions
 
         public static List<RolModel> ConvertRolEntityToRolModel(this List<Rol> roles) { 
         
-            return roles.ConvertRolEntityToRolModel();
+            return roles.Select(X => X.ConvertRolEntityToRolModel()).ToList();
         }
     }
 }

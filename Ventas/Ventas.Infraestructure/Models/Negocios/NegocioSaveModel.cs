@@ -1,13 +1,10 @@
 ﻿
+using Ventas.Infraestructure.Core;
+
 namespace Ventas.Infraestructure.Models.Negocios
 {
-    public class NegocioSaveModel
+    public class NegocioSaveModel :AuditableSaveBaseModel
     {
-        public NegocioSaveModel() {
-        
-            this.FechaRegistro = DateTime.Now;
-            this.Eliminado = false;
-        }
         public string? UrlLogo { get; set; }
         public string? NombreLogo { get; set; }
         public string? NumeroDocumento { get; set; }
@@ -17,9 +14,5 @@ namespace Ventas.Infraestructure.Models.Negocios
         public string? Telefono { get; set; }
         public decimal? PorcentajeImpuesto { get; set;}
         public string? SymboloModena { get; set; }
-        public DateTime? FechaRegistro { get; set; }
-        public int? IdUsuarioCreacion { get; set; }
-        public bool? Eliminado { get; set; }
-
     }
 }

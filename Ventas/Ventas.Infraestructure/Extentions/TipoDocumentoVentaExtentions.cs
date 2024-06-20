@@ -17,7 +17,7 @@ namespace Ventas.Infraestructure.Extentions
         }
 
         public static List<TipoDocumentoVentaModel> ConvertTipoDocumentoVentaEntityToTipoDocumentoVentaModel(this List<TipoDocumentoVenta> tipoDocumentoVenta) { 
-            return tipoDocumentoVenta.ConvertTipoDocumentoVentaEntityToTipoDocumentoVentaModel();   
+            return tipoDocumentoVenta.Select(X => X.ConvertTipoDocumentoVentaEntityToTipoDocumentoVentaModel()).ToList();   
         }
 
 

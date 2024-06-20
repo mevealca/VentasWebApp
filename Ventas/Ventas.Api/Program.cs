@@ -17,6 +17,9 @@ builder.Services.AddDbContext<VentasContext>(options => options.UseSqlServer(bui
 
 builder.Services.AddProductoDependency();
 builder.Services.AddCategoriaDependency();
+builder.Services.AddVentaDependency();
+builder.Services.AddUsuarioDependency();
+
 
 var app = builder.Build();
 

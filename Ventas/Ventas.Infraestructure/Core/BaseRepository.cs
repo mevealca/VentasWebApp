@@ -17,56 +17,60 @@ namespace Ventas.Infraestructure.Core
             this._entities = this._context.Set<TEntity>();
         }
 
-        public virtual async Task<bool> Exists(Expression<Func<TEntity, bool>> filter)
+        public virtual  bool Exists(Expression<Func<TEntity, bool>> filter)
         {
-           return await this._entities.AnyAsync(filter);
+           return  this._entities.Any(filter);
         }
 
-        public virtual async Task<TEntity> Get(int id)
+        public virtual  TEntity Get(int id)
         {
-            return await this._entities.FindAsync(id);
+            return  this._entities.Find(id);
         }
 
-        public virtual async Task<List<TEntity>> GetAll(Expression<Func<TEntity, bool>> filter)
+        public virtual List<TEntity> GetAll(Expression<Func<TEntity, bool>> filter)
         {
-            return await this._entities.Where(filter).ToListAsync();
+            return  this._entities.Where(filter).ToList();
         }
 
-        public virtual async Task Save(TEntity entity)
+        public virtual void Save(TEntity entity)
         {
              this._entities.Add(entity);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChanges();
         }
 
-        public virtual async Task Save(List<TEntity> entities)
+        public virtual void Save(List<TEntity> entities)
         {
              this._entities.AddRange(entities);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChanges();
         }
 
-        public virtual async Task Update(TEntity entity)
+        public virtual void Update(TEntity entity)
         {
                   this._entities.Update(entity);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChanges();
         }
 
-        public virtual async Task Update(List<TEntity> entities)
+        public virtual void Update(List<TEntity> entities)
         {
             this._entities.UpdateRange(entities);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChangesAsync();
         }
-        public virtual async Task Delete(int Id)
+        public virtual void Delete(int Id)
         {
-            var entity = await this._entities.FindAsync(Id);
+            var entity =  this._entities.Find(Id);
             this._entities.Remove(entity);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChanges();
 
         }
 
-        public virtual async Task Delete(List<TEntity> entities)
+        public virtual void Delete(List<TEntity> entities)
         {
             this._entities.RemoveRange(entities);
-            await this._context.SaveChangesAsync();
+             this._context.SaveChanges();
+        }
+        public virtual void SaveChanges()
+        {
+            this._context.SaveChanges();
         }
     }
 }

@@ -1,7 +1,9 @@
-﻿using Ventas.Domain.Core;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using Ventas.Domain.Core;
 
 namespace Ventas.Domain.Entities
 {
+    [Table("Usuario")]
     public sealed class Usuario: AuditableEntity
     {
         public string? Nombre { get; set; }
@@ -13,6 +15,7 @@ namespace Ventas.Domain.Entities
         public string? Clave { get; set; }
         public bool? EsActivo { get; set; }
 
+        [ForeignKey("IdRol")]
         public Rol Rol { get; set; }
     }
 }

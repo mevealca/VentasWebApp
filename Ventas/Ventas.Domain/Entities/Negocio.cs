@@ -1,8 +1,10 @@
 ﻿
+using System.ComponentModel.DataAnnotations.Schema;
 using Ventas.Domain.Core;
 
 namespace Ventas.Domain.Entities
 {
+    [Table("Negocio")]
     public sealed class Negocio : AuditableEntity
     {
         public string? UrlLogo { get; set; }

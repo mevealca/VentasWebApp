@@ -9,5 +9,6 @@ namespace Ventas.Domain.Models
         public string? Telefono  { get; set; }
         public int? IdRol { get; set; }
         public string? Rol { get; set;}
+        
     }
 }

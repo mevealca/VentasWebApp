@@ -1,8 +1,10 @@
 ﻿
+using System.ComponentModel.DataAnnotations.Schema;
 using Ventas.Domain.Core;
 
 namespace Ventas.Domain.Entities
 {
+    [Table("Menu")]
     public sealed class Menu: AuditableEntity
     {
         public string? Descripcion { get; set; }

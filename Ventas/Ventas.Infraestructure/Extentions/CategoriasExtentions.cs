@@ -1,6 +1,7 @@
 ﻿
 using Ventas.Domain.Entities;
 using Ventas.Domain.Models;
+using Ventas.Infraestructure.Models.Categorias;
 
 namespace Ventas.Infraestructure.Extentions
 {
@@ -29,8 +30,19 @@ namespace Ventas.Infraestructure.Extentions
         public static List<CategoriaModel> ConvertCategoriaEntityToCategoriaModel(this List<Categoria> categoria)
         {
 
-            return categoria.ConvertCategoriaEntityToCategoriaModel();
+            return categoria.Select(categoria=>categoria.ConvertCategoriaEntityToCategoriaModel()).ToList();
+        }
 
+        public static Categoria ConvertCategoriaSaveModelToCategoriaEntity(this CategoriaSaveModel categoria) {
+
+            return new Categoria()
+            {
+                Descripcion =categoria.Descripcion,
+                EsActivo = categoria.EsActivo,
+                Eliminado = categoria.Eliminado,
+                FechaRegistro = categoria.FechaRegistro,
+                IdUsuarioCreacion = categoria.IdUsuarioCreacion
+            };
         }
     }
 }

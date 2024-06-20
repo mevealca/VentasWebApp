@@ -1,14 +1,11 @@
 ﻿
 
+using Ventas.Infraestructure.Core;
+
 namespace Ventas.Infraestructure.Models.Usuarios
 {
-    public class UsuarioUpdateModel
+    public class UsuarioUpdateModel: BaseModelUpdate
     {
-        public UsuarioUpdateModel() { 
-            this.FechaMod=DateTime.Now;
-
-        }
-        public int Id { get; set; }
         public string? Nombre { get; set; }
         public string? Correo { get; set; }
         public string? Telefono { get; set; }
@@ -16,7 +13,7 @@ namespace Ventas.Infraestructure.Models.Usuarios
         public string? NombreFoto { get; set; }
         public string? Clave { get; set; }
         public bool? EsActivo { get; set; }
-        public DateTime? FechaMod { get; set; }
-        public int? IdUsuarioCreacion { get; set; }
+
+        public int? IdRol { get; set; }
     }
 }
