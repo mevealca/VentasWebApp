@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|solutionrelative:ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|solutionrelative:ventas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\context\\ventascontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\context\\ventascontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|solutionrelative:ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -94,11 +98,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Ventas.Api\\appsettings.json",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\appsettings.json",
+              "RelativeToolTip": "Ventas.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T01:40:48.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VentasContextInMemory.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UsuarioDependency.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
               "RelativeDocumentMoniker": "Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
@@ -119,12 +136,11 @@
               "RelativeToolTip": "Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:42.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:42.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RolUpdateModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
@@ -132,12 +148,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:34.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:34.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RolSaveModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
@@ -145,12 +160,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:28.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:28.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RolRemoveModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
@@ -158,12 +172,24 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:21.941Z",
+              "WhenOpened": "2024-06-23T01:37:21.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ventas.Api\\Program.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
+              "RelativeToolTip": "Ventas.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:54:03.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductoUpdateModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
@@ -171,12 +197,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:16.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:16.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductoSaveModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
@@ -184,12 +209,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:06.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:06.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductoRemoveModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
@@ -197,12 +221,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:37:00.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:37:00.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UsuariosRepositoryTest.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
@@ -210,12 +233,11 @@
               "RelativeToolTip": "Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:31:15.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:31:15.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CategoriaRepositoryTest.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
@@ -223,12 +245,11 @@
               "RelativeToolTip": "Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAYwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T14:39:37.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T14:39:37.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ProductoExtentions.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\ProductoExtentions.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Extentions\\ProductoExtentions.cs",
@@ -236,12 +257,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Extentions\\ProductoExtentions.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAnwA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:19:15.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T04:19:15.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "Ventas.Domain\\Entities\\Producto.cs",
@@ -249,12 +269,11 @@
               "RelativeToolTip": "Ventas.Domain\\Entities\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwBMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:18:49.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T04:18:49.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UsuarioExtentions.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
@@ -262,12 +281,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAArwBIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:49:00.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:49:00.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
@@ -275,12 +293,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T03:57:41.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T03:57:41.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UsuariosMockRepository.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
@@ -288,12 +305,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAADgv1YAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:20:48.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:20:48.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CategoriaMockRepository.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
@@ -301,25 +317,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
               "ViewState": "AQIAAMMAAAAAAAAAAAAuwHYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:39:38.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:39:38.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Ventas.Api\\Program.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
-              "RelativeToolTip": "Ventas.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T21:54:03.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "CategoriaException.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
@@ -327,12 +329,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:18:27.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T01:18:27.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "Ventas.Domain\\Entities\\Usuario.cs",
@@ -340,12 +341,11 @@
               "RelativeToolTip": "Ventas.Domain\\Entities\\Usuario.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA+wBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:17:22.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T04:17:22.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UsuarioUpdateModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Usuarios\\UsuarioUpdateModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Usuarios\\UsuarioUpdateModel.cs",
@@ -353,12 +353,11 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Models\\Usuarios\\UsuarioUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:12:57.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T04:12:57.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ProductosRepository.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
@@ -366,8 +365,7 @@
               "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAkwB4AAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:08:07.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T04:08:07.555Z"
             }
           ]
         }
