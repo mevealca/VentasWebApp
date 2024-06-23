@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\context\\ventascontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\context\\ventascontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}|Ventas.IOC\\Ventas.IOC.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.ioc\\dependencies\\usuariodependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}|Ventas.IOC\\Ventas.IOC.csproj|solutionrelative:ventas.ioc\\dependencies\\usuariodependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\roles\\rolupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\roles\\rolupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\roles\\rolsavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\roles\\rolsavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\roles\\rolremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\roles\\rolremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\productos\\productoupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\productos\\productoupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\productos\\productosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\productos\\productosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\productos\\productoremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\productos\\productoremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2044AC8-3966-40F3-B132-2B421863C07C}|Ventas.Infraestructure.Test\\Ventas.Infraestructure.Unit.Test.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure.test\\usuarios\\usuariosrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2044AC8-3966-40F3-B132-2B421863C07C}|Ventas.Infraestructure.Test\\Ventas.Infraestructure.Unit.Test.csproj|solutionrelative:ventas.infraestructure.test\\usuarios\\usuariosrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\mock\\usuariosmockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\mock\\usuariosmockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\extentions\\usuarioextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\extentions\\usuarioextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\mock\\categoriamockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\mock\\categoriamockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\execeptions\\categoriaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\execeptions\\categoriaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}|Ventas.Api\\Ventas.Api.csproj|solutionrelative:ventas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +79,12 @@
       "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603EB072-3D7D-4871-A258-0D12FDBE73E1}|Ventas.Domain\\Ventas.Domain.csproj|solutionrelative:ventas.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure\\models\\usuarios\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}|Ventas.Infraestructure\\Ventas.Infraestructure.csproj|solutionrelative:ventas.infraestructure\\models\\usuarios\\usuarioupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2044AC8-3966-40F3-B132-2B421863C07C}|Ventas.Infraestructure.Test\\Ventas.Infraestructure.Unit.Test.csproj|c:\\curso_c_intermedio\\source\\ventaswebapp\\ventas\\ventas.infraestructure.test\\categorias\\categoriarepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2044AC8-3966-40F3-B132-2B421863C07C}|Ventas.Infraestructure.Test\\Ventas.Infraestructure.Unit.Test.csproj|solutionrelative:ventas.infraestructure.test\\categorias\\categoriarepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +94,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasContextInMemory.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Context\\VentasContextInMemory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsuarioDependency.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
+              "RelativeDocumentMoniker": "Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
+              "RelativeToolTip": "Ventas.IOC\\Dependencies\\UsuarioDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolUpdateModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolSaveModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:28.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolRemoveModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Roles\\RolRemoveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoUpdateModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoSaveModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoRemoveModel.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Models\\Productos\\ProductoRemoveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:37:00.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
+              "RelativeToolTip": "Ventas.Infraestructure.Test\\Usuarios\\UsuariosRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:31:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriaRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
+              "RelativeToolTip": "Ventas.Infraestructure.Test\\Categorias\\CategoriaRepositoryTest.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:39:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ProductoExtentions.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\ProductoExtentions.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Extentions\\ProductoExtentions.cs",
@@ -51,33 +241,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "Ventas.Domain\\Entities\\Producto.cs",
               "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Producto.cs",
               "RelativeToolTip": "Ventas.Domain\\Entities\\Producto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T04:18:49.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "UsuarioExtentions.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Extentions\\UsuarioExtentions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:49:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:57:41.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosMockRepository.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\Mock\\UsuariosMockRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADgv1YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:20:48.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaMockRepository.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\Mock\\CategoriaMockRepository.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAuwHYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:39:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ventas.Api\\Program.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Program.cs",
+              "RelativeToolTip": "Ventas.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:54:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaException.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
+              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
+              "RelativeToolTip": "Ventas.Infraestructure\\Execeptions\\CategoriaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:18:27.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "Ventas.Domain\\Entities\\Usuario.cs",
               "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Domain\\Entities\\Usuario.cs",
               "RelativeToolTip": "Ventas.Domain\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBEAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T04:17:22.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "UsuarioUpdateModel.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Models\\Usuarios\\UsuarioUpdateModel.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Models\\Usuarios\\UsuarioUpdateModel.cs",
@@ -90,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "ProductosRepository.cs",
               "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
               "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\ProductosRepository.cs",
@@ -99,19 +367,6 @@
               "ViewState": "AQIAABgAAAAAAAAAAAAkwB4AAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T04:08:07.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Ventas.Infraestructure\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAADwv0sAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T03:57:41.154Z",
               "EditorCaption": ""
             }
           ]

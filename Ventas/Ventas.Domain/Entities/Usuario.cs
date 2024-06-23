@@ -16,6 +16,6 @@ namespace Ventas.Domain.Entities
         public bool? EsActivo { get; set; }
 
         [ForeignKey("IdRol")]
-        public Rol Rol { get; set; }
+        public Rol? Rol { get; set; }
     }
 }

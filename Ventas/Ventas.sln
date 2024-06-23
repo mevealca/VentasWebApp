@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.Domain", "Ventas.Dom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.Infraestructure", "Ventas.Infraestructure\Ventas.Infraestructure.csproj", "{7BBF106F-FF51-40BE-AD8B-9317C9471BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.IOC", "Ventas.IOC\Ventas.IOC.csproj", "{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.IOC", "Ventas.IOC\Ventas.IOC.csproj", "{C3F0917E-CDEC-46BA-BBD2-935B132EDD3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.Api", "Ventas.Api\Ventas.Api.csproj", "{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas.Api", "Ventas.Api\Ventas.Api.csproj", "{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas.Infraestructure.Unit.Test", "Ventas.Infraestructure.Test\Ventas.Infraestructure.Unit.Test.csproj", "{B2044AC8-3966-40F3-B132-2B421863C07C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B28939A-38DC-4A73-B1FA-16B7402A2EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2044AC8-3966-40F3-B132-2B421863C07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2044AC8-3966-40F3-B132-2B421863C07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2044AC8-3966-40F3-B132-2B421863C07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2044AC8-3966-40F3-B132-2B421863C07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

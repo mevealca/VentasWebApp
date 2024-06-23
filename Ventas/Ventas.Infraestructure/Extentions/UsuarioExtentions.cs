@@ -13,10 +13,10 @@ namespace Ventas.Infraestructure.Extentions
             return new UsuarioModel()
             {
                 Id = usuario.Id,
-                Correo = usuario.Correo,
+                Correo = usuario?.Correo,
                 IdRol = usuario?.IdRol,
                 Nombre = usuario?.Nombre,
-                Rol = usuario?.Rol.Descripcion,
+                Rol = usuario?.Rol?.Descripcion,
                 Telefono = usuario?.Telefono
             };
         }

@@ -71,3 +71,4 @@ C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Api\obj\Debug\net6.0\ref
 C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Api\obj\Debug\net6.0\Ventas.Api.pdb
 C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Api\obj\Debug\net6.0\Ventas.Api.genruntimeconfig.cache
 C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Api\obj\Debug\net6.0\ref\Ventas.Api.dll
+C:\Curso_C_intermedio\Source\VentasWebApp\Ventas\Ventas.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll

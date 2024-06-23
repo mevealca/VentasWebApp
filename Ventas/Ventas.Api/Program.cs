@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<VentasContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("VentasContext")));
-
+//builder.Services.AddDbContext<VentasContext>(options => options.UseInMemoryDatabase("VentasDb"));
 // my Services
 
 builder.Services.AddProductoDependency();

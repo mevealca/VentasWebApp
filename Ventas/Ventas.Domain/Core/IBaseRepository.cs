@@ -11,7 +11,7 @@ namespace Ventas.Domain.Core
         List<TEntity> GetAll(Expression<Func<TEntity,bool>> filter);
         void Update(TEntity entity);
         void Update(List<TEntity> entities);
-        void Delete(int Id);
+        void Delete(TEntity Id);
         void Delete(List<TEntity> entities);
         bool Exists (Expression<Func<TEntity,bool>> filter);
 

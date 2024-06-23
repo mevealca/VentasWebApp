@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3h5fcm/uqkZvp8wGEujVAJAPsxLU/nrxLi30WM5MYcB+8qrsnQBPIgreZCg98V2E34LyJfPaz+0OI8LoYcznNQ==",
+  "dgSpecHash": "plmbWQL/p905GNIU2qpI9Q+lxE+d1O3H+KsmD096msw3Oy6vp/UKT21ZUCeDisbTM2B4Zflf77I7FSCNoafzAw==",
   "success": true,
   "projectFilePath": "C:\\Curso_C_intermedio\\Source\\VentasWebApp\\Ventas\\Ventas.Api\\Ventas.Api.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.31\\microsoft.entityframeworkcore.6.0.31.nupkg.sha512",
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.31\\microsoft.entityframeworkcore.abstractions.6.0.31.nupkg.sha512",
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.31\\microsoft.entityframeworkcore.analyzers.6.0.31.nupkg.sha512",
+    "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.31\\microsoft.entityframeworkcore.inmemory.6.0.31.nupkg.sha512",
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.31\\microsoft.entityframeworkcore.relational.6.0.31.nupkg.sha512",
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.31\\microsoft.entityframeworkcore.sqlserver.6.0.31.nupkg.sha512",
     "C:\\Users\\mevea\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

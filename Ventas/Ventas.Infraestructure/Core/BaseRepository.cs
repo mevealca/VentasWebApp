@@ -55,7 +55,7 @@ namespace Ventas.Infraestructure.Core
             this._entities.UpdateRange(entities);
              this._context.SaveChangesAsync();
         }
-        public virtual void Delete(int Id)
+        public virtual void Delete(TEntity Id)
         {
             var entity =  this._entities.Find(Id);
             this._entities.Remove(entity);
